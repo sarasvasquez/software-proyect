@@ -1,0 +1,5 @@
+sara,correr,regar (hecho),null,null
+maria,correr,regar (hecho),null,null,lavar,escanear
+maria,uno
+maria,hacer (hecho)
+maria,regar
